@@ -64,7 +64,6 @@ Bobrshop/
 │   └── postcss.config.js   # Конфигурация PostCSS
 └── 📁 tg_bot/              # Telegram bot
     ├── bot.py              # Основной код бота
-    ├── .env                # переменное окружение бота
     └── requirements.txt    # Зависимости Python
 ```
 
